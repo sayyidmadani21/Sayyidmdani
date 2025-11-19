@@ -16,7 +16,9 @@ Hai! saya seorang yang suka memotret sesuatu dan sekarang sedang belajar coding.
 ## 📫 Kontak
 - Email: sayyidmdani@gmail.com
 - LinkedIn: Sayyid Madani
-
+- Kontak : 088295058398
+- Instagram : sayyidmdani
+  
 ## ✨ Catatan
 Saya terbuka untuk kolaborasi, mentoring, dan peluang kerja. Jangan ragu untuk menghubungi saya!
 
