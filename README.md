@@ -1,10 +1,10 @@
 # About Me
-# 👋 Halo, Saya Sayyid Madani
-**Software Developer** • Pemecah masalah • Pembelajar seumur hidup
+<h1># 👋 Halo, Saya Sayyid Madani</h1>
+<h2>**Software Developer** • Pemecah masalah • Pembelajar seumur hidup</h2>
 
-Hai! saya seorang yang suka memotret sesuatu dan sekarang sedang belajar coding. Berikut ringkasan singkat tentang saya:
+<h3>Hai! saya seorang yang suka memotret sesuatu dan sekarang sedang belajar coding. Berikut ringkasan singkat tentang saya:</h3>
 
-## 🔭 Tentang Saya
+<p>## 🔭 Tentang Saya
 - Saat ini fokus di: **Web Development** (Frontend / Backend / Full-stack)  
 - Bahasa & tools favorit: JavaScript, TypeScript, Node.js, React, HTML, CSS  
 - Suka bekerja pada proyek open-source dan automation.
@@ -24,4 +24,4 @@ Saya terbuka untuk kolaborasi, mentoring, dan peluang kerja. Jangan ragu untuk m
 
 ---
 
-Terima kasih sudah mampir — semoga project saya bisa berguna! 👨‍💻
+Terima kasih sudah mampir — semoga project saya bisa berguna! 👨‍💻</p>
